@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dark\\source\\repos\\appVisitasItla\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A036F889-E795-445D-A2FA-C67628A6052E}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\dark\\source\\repos\\appvisitasitla\\capapresentacion\\validarvisita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A036F889-E795-445D-A2FA-C67628A6052E}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\validarvisita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A036F889-E795-445D-A2FA-C67628A6052E}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\dark\\source\\repos\\appvisitasitla\\capapresentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A036F889-E795-445D-A2FA-C67628A6052E}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC8172B7-F31C-42EF-8BCB-4D416BB7971D}|CapaDatos\\CapaDatos.csproj|c:\\users\\dark\\source\\repos\\appvisitasitla\\capadatos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC8172B7-F31C-42EF-8BCB-4D416BB7971D}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A036F889-E795-445D-A2FA-C67628A6052E}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\dark\\source\\repos\\appvisitasitla\\capapresentacion\\validarvisita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A036F889-E795-445D-A2FA-C67628A6052E}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\validarvisita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0DB9D6-8F51-4173-AC74-3777C3B9DEC0}|CapaNegocio\\CapaNegocio.csproj|C:\\Users\\Dark\\source\\repos\\appVisitasItla\\capanegocio\\operacionesnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0DB9D6-8F51-4173-AC74-3777C3B9DEC0}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\operacionesnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OperacionesNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\Dark\\source\\repos\\appVisitasItla\\CapaNegocio\\OperacionesNegocio.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\OperacionesNegocio.cs",
+              "ToolTip": "C:\\Users\\Dark\\source\\repos\\appVisitasItla\\CapaNegocio\\OperacionesNegocio.cs",
+              "RelativeToolTip": "CapaNegocio\\OperacionesNegocio.cs",
+              "ViewState": "AgIAAMIAAAAAAAAAAAAQwFYAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T15:02:15.052Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ValidarVisita.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Dark\\source\\repos\\appVisitasItla\\CapaPresentacion\\ValidarVisita.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\ValidarVisita.cs",
+              "ToolTip": "C:\\Users\\Dark\\source\\repos\\appVisitasItla\\CapaPresentacion\\ValidarVisita.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\ValidarVisita.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T21:04:24.537Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ValidarVisita.cs",
+              "DocumentMoniker": "C:\\Users\\Dark\\source\\repos\\appVisitasItla\\CapaPresentacion\\ValidarVisita.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\ValidarVisita.cs",
+              "ToolTip": "C:\\Users\\Dark\\source\\repos\\appVisitasItla\\CapaPresentacion\\ValidarVisita.cs",
+              "RelativeToolTip": "CapaPresentacion\\ValidarVisita.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAUwGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T21:08:51.611Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\Dark\\source\\repos\\appVisitasItla\\CapaDatos\\Conexion.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\Conexion.cs",
+              "ToolTip": "C:\\Users\\Dark\\source\\repos\\appVisitasItla\\CapaDatos\\Conexion.cs",
+              "RelativeToolTip": "CapaDatos\\Conexion.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T01:43:22.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Dark\\source\\repos\\appVisitasItla\\CapaPresentacion\\Form1.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Form1.cs",
+              "ToolTip": "C:\\Users\\Dark\\source\\repos\\appVisitasItla\\CapaPresentacion\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T21:04:43.153Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
